@@ -2,6 +2,9 @@ import cv2
 import numpy as np
 import time
 
+# Programmer Mohammad Shirvani
+# Date 1402/12/28
+
 # print(time.time())
 # quit()
 t0=time.time()
